@@ -1,0 +1,26 @@
+﻿:root {
+    --brand: #448922;
+    --brand-hover: #5da030;
+}
+
+body {
+    background-color: #f9f9f9;
+}
+
+a {
+    color: var(--brand);
+    text-decoration: underline;
+}
+
+.navbar {
+    border-bottom: 2px solid var(--brand);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 5%, rgba(255,255,255,0) 100%), url("../images/navbar-bg.jpg") no-repeat center;
+    background-size: cover;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 288px);
+    column-gap: 123px;
+    row-gap: 75px;
+}

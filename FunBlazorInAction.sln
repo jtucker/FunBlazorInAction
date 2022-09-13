@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32909.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FunBlazorInAction", "FunBlazorInAction\FunBlazorInAction.fsproj", "{4E71E63F-0B2D-45EC-BD23-8C1C98C97C1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E71E63F-0B2D-45EC-BD23-8C1C98C97C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E71E63F-0B2D-45EC-BD23-8C1C98C97C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E71E63F-0B2D-45EC-BD23-8C1C98C97C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E71E63F-0B2D-45EC-BD23-8C1C98C97C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82958ABD-52CC-43D3-87E0-2FA77BA73C93}
+	EndGlobalSection
+EndGlobal
