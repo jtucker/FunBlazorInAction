@@ -1,6 +1,6 @@
 # Fun.Blazor in Action
 
-A repo where I write the the application example in [Blazor In Action](https://manning.com) using [Fun.Blazor](https://slaveoftime.github.io/Fun.Blazor.Docs/documents/About) project template. 
+A repo where I write the the application example in [Blazor In Action](https://www.manning.com/books/blazor-in-action) using [Fun.Blazor](https://slaveoftime.github.io/Fun.Blazor.Docs/documents/About) project template. 
 
 ## Chapter 2 Branch
 
