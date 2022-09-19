@@ -5,12 +5,14 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Features/Home/Home.fs" />
     <Compile Include="Fun.Blazor.Bindings/Microsoft.AspNetCore.Components.fs" />
     <Compile Include="Features/Home/Home.fs" />
     <Compile Include="App.fs" />
     <Compile Include="Startup.fs" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="Fun.Blazor.HtmlTemplate" Version="2.1.2" />
     <PackageReference Include="Fun.Blazor.Wasm" Version="2.1.2" />
     <PackageReference Include="Fun.Blazor.HotReload" Version="2.1.2" />
     <PackageReference FunBlazorStyle="CE" FunBlazorNamespace="Microsoft.AspNetCore.Components" Include="Microsoft.AspNetCore.Components.Web" Version="6.0.8" />
