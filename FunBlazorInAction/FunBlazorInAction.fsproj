@@ -5,8 +5,9 @@
     <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Features/Home/Home.fs" />
     <Compile Include="Fun.Blazor.Bindings/Microsoft.AspNetCore.Components.fs" />
+    <Compile Include="Hooks.fs" />
+    <Compile Include="Features/Home/Home.fs" />
     <Compile Include="Features/Home/Home.fs" />
     <Compile Include="App.fs" />
     <Compile Include="Startup.fs" />
